@@ -25,7 +25,7 @@
 | Languages | Game Engines | Tools & Technologies |
 | --------- | ------------ | -------------------- |
 | C++       | Unreal Engine| Visual Studio, Git   |
-| Blueprint | Unreal Engine|                      |
+| Blueprint |              |                      |
 
 ---
 
