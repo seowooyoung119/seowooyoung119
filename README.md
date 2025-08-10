@@ -34,6 +34,10 @@
 
 - **텍스트 RPG 인터페이스 개발**  
   스테이트 머신 및 게임 출력 로그, UI 구성 및 구현   <a href="https://github.com/dltjgh17/PJT1">보러가기</a>
+
+- **언리얼 TPS 슈터 AI 개발**  
+  FPS 기반 근접 및 원거리 AI 구현 <a href="https://github.com/dltjgh17/PJT1](https://github.com/seowooyoung119/3rd_4th-Team15-CH3-Project">보러가기</a>
+
 ---
 
 <!-- 동기 부여 -->
