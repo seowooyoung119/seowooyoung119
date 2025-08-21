@@ -4,7 +4,8 @@
   <em>언리얼 엔진으로 게임 개발하는 프로그래머 교육생 🎮</em><br/>
   <a href="mailto:seohascome20th@naver.com">📧 이메일</a> |
   <a href="https://github.com/seowooyoung119">GitHub</a> |
-  <a href="https://blog.naver.com/seowool719">Blog</a>
+  <a href="https://blog.naver.com/seowool719">Blog</a> |
+    <a href="https://blog.naver.com/seowool71](https://velog.io/@seoman/posts">Blog</a>
 </p>
 
 ---
