@@ -5,7 +5,7 @@
   <a href="mailto:seohascome20th@naver.com">📧 이메일</a> |
   <a href="https://github.com/seowooyoung119">GitHub</a> |
   <a href="https://blog.naver.com/seowool719">Blog</a> |
-    <a href="https://blog.naver.com/seowool71](https://velog.io/@seoman/posts">Blog</a>
+    <a href="https://velog.io/@seoman/posts">Blog</a>
 </p>
 
 ---
