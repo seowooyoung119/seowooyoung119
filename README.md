@@ -34,11 +34,16 @@
 ## 📂 Projects
 
 - **텍스트 RPG 인터페이스 개발**  
-  스테이트 머신 및 게임 출력 로그, UI 구성 및 구현   <a href="https://github.com/dltjgh17/PJT1">보러가기</a>
+  스테이트 머신 및 게임 출력 로그, UI 구성 및 구현
+  <a href="https://github.com/dltjgh17/PJT1">보러가기</a>
 
 - **언리얼 TPS 슈터 AI 개발**  
-  FPS 기반 근접 및 원거리 AI, 보스 구현 <a href="https://github.com/dltjgh17/PJT1](https://github.com/seowooyoung119/3rd_4th-Team15-CH3-Project">보러가기</a>
+  FPS 기반 근접 및 원거리 AI, 보스 구현
+  <a href="https://github.com/dltjgh17/PJT1](https://github.com/seowooyoung119/3rd_4th-Team15-CH3-Project">보러가기</a>
 
+- **언리얼 코어 프레임워크 플러그인 개발**  
+  <a href="https://github.com/seowooyoung119/CoreFramework">보러가기</a>
+  
 - **언리얼 멀티 생존 게임 개발 (리더 프로그래머)**  
   <a href="https://github.com/NbcampUnreal/3rd_4th-Team5-CH6-Project">보러가기</a>
 
