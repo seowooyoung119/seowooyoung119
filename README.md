@@ -39,6 +39,9 @@
 - **언리얼 TPS 슈터 AI 개발**  
   FPS 기반 근접 및 원거리 AI, 보스 구현 <a href="https://github.com/dltjgh17/PJT1](https://github.com/seowooyoung119/3rd_4th-Team15-CH3-Project">보러가기</a>
 
+- **언리얼 멀티 생존 게임 개발 (리더 프로그래머)**  
+  <a href="https://github.com/NbcampUnreal/3rd_4th-Team5-CH6-Project">보러가기</a>
+
 ---
 
 <!-- 동기 부여 -->
