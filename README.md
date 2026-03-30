@@ -1,7 +1,7 @@
 <!-- 프로필 헤더 -->
-<h1 align="center">👋 안녕하세요! 저는 서맨입니다.</h1>
+<h1 align="center"> 안녕하세요. 저는 서맨입니다.</h1>
 <p align="center">
-  <em>언리얼 엔진으로 게임 개발하는 프로그래머 교육생 🎮</em><br/>
+  <em>언리얼 엔진으로 게임 개발하는 프로그래머 지망생 🎮</em><br/>
   <a href="mailto:seohascome20th@naver.com">📧 이메일</a> |
   <a href="https://github.com/seowooyoung119">GitHub</a> |
   <a href="https://blog.naver.com/seowool719">Blog</a> |
