@@ -38,7 +38,7 @@
 
 - **언리얼 TPS 슈터 AI 개발**  
   FPS 기반 근접 및 원거리 AI, 보스 구현
-  <a href="https://github.com/dltjgh17/PJT1](https://github.com/seowooyoung119/3rd_4th-Team15-CH3-Project">보러가기</a>
+  <a href="https://github.com/NbcampUnreal/3rd_4th-Team15-CH3-Project">보러가기</a>
 
 - **언리얼 코어 프레임워크 플러그인 개발**  
   <a href="https://github.com/seowooyoung119/CoreFramework">보러가기</a>
